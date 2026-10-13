@@ -8737,7 +8737,7 @@ Please select a format to export as</source>
     <name>src/actions/mixer_selections_action.c:1370</name>
     <message>
         <source>Create %d %ss</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
