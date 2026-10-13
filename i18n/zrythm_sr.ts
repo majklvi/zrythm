@@ -12887,21 +12887,21 @@ If the UI does not load, please try instantiating the plugin in full-bridged mod
     <name>resources/ui/inspector_master.ui:18</name>
     <message>
         <source>region_name</source>
-        <translation>име_региона</translation>
+        <translation type="vanished">име_региона</translation>
     </message>
 </context>
 <context>
     <name>resources/ui/inspector_ap.ui:18</name>
     <message>
         <source>region_name</source>
-        <translation>име_региона</translation>
+        <translation type="vanished">име_региона</translation>
     </message>
 </context>
 <context>
     <name>resources/ui/inspector_midi.ui:18</name>
     <message>
         <source>region_name</source>
-        <translation>име_региона</translation>
+        <translation type="vanished">име_региона</translation>
     </message>
 </context>
 <context>

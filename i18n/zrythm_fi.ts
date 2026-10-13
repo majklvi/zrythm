@@ -10502,21 +10502,21 @@ This will guide you through the basic setup of Zrythm. First, choose your langua
     <name>resources/ui/inspector_master.ui:18</name>
     <message>
         <source>region_name</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/inspector_ap.ui:18</name>
     <message>
         <source>region_name</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/inspector_midi.ui:18</name>
     <message>
         <source>region_name</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
