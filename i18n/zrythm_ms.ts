@@ -13262,7 +13262,7 @@ If the UI does not load, please try instantiating the plugin in full-bridged mod
     <name>resources/ui/automation_track.ui:81</name>
     <message>
         <source>0.0</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>

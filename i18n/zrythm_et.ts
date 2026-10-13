@@ -10804,7 +10804,7 @@ This will guide you through the basic setup of Zrythm. First, choose your langua
     <name>resources/ui/automation_track.ui:81</name>
     <message>
         <source>0.0</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
