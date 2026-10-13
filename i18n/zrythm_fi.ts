@@ -10376,70 +10376,70 @@ This will guide you through the basic setup of Zrythm. First, choose your langua
     <name>resources/ui/arranger_object_info_dialog.ui:34</name>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/arranger_object_info_dialog.ui:67</name>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/arranger_object_info_dialog.ui:76</name>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/port_info_dialog.ui:33</name>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/port_info_dialog.ui:57</name>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/port_info_dialog.ui:123</name>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/port_info_dialog.ui:132</name>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/port_info_dialog.ui:153</name>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/port_info_dialog.ui:174</name>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/port_info_dialog.ui:183</name>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
