@@ -11482,7 +11482,7 @@ This will guide you through the basic setup of Zrythm. First, choose your langua
     <name>build/data/org.zrythm.Zrythm.gschema.xml:295</name>
     <message>
         <source>The monitor mute volume in amplitude (0 to 2).</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
@@ -11496,7 +11496,7 @@ This will guide you through the basic setup of Zrythm. First, choose your langua
     <name>build/data/org.zrythm.Zrythm.gschema.xml:301</name>
     <message>
         <source>The monitor listen volume in amplitude (0 to 2).</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
@@ -11510,7 +11510,7 @@ This will guide you through the basic setup of Zrythm. First, choose your langua
     <name>build/data/org.zrythm.Zrythm.gschema.xml:307</name>
     <message>
         <source>The monitor dim volume in amplitude (0 to 2).</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
