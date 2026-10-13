@@ -10075,14 +10075,14 @@ This will guide you through the basic setup of Zrythm. First, choose your langua
     <name>resources/ui/scale_selector_window.ui:250</name>
     <message>
         <source>TODO keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
     <name>resources/ui/chord_selector_window.ui:613</name>
     <message>
         <source>TODO keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
@@ -10292,7 +10292,7 @@ This will guide you through the basic setup of Zrythm. First, choose your langua
     <name>resources/ui/chord_selector_window.ui:628</name>
     <message>
         <source>TODO</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>

@@ -1105,6 +1105,11 @@ if(NOT XCODE)
     "${CMAKE_SOURCE_DIR}/ext/*"
     "${CMAKE_SOURCE_DIR}/.cache/CPM/*"
     "${CMAKE_SOURCE_DIR}/src/gui/resources/icons/*"
+    # Legacy GTK code and templates are retained as reference sources.
+    "${CMAKE_SOURCE_DIR}/src/gui/backend/gtk_widgets/*"
+    "${CMAKE_SOURCE_DIR}/src/gui/backend/legacy_actions/*"
+    "${CMAKE_SOURCE_DIR}/src/gui/resources/ui/*"
+    "${CMAKE_SOURCE_DIR}/src/gui/resources/gtk/*"
     "${CMAKE_SOURCE_DIR}/LICENSES/*"
     "${CMAKE_SOURCE_DIR}/TRADEMARKS.md"
   )
