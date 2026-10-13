@@ -11532,7 +11532,7 @@ This will guide you through the basic setup of Zrythm. First, choose your langua
     <name>build/data/org.zrythm.Zrythm.gschema.xml:331</name>
     <message>
         <source>Left output devices</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
