@@ -1553,7 +1553,7 @@ Support this project at https://liberapay.com/Zrythm
 
 Please report issues to %s
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>
