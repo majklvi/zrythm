@@ -10223,7 +10223,7 @@ This will guide you through the basic setup of Zrythm. First, choose your langua
     <name>resources/ui/chord_selector_window.ui:233</name>
     <message>
         <source>Accent</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished"></translation>
     </message>
 </context>
 <context>

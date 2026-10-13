@@ -11746,7 +11746,7 @@ If the UI does not load, please try instantiating the plugin in full-bridged mod
     <name>resources/ui/chord_selector_window.ui:233</name>
     <message>
         <source>Accent</source>
-        <translation>Акцент</translation>
+        <translation type="vanished">Акцент</translation>
     </message>
 </context>
 <context>
